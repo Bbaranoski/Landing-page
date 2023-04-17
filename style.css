@@ -171,6 +171,40 @@ li{
 
     color: #1f2937;
 
+    font-size: 20px;
+
+    font-weight: bold;
+
+    display: flex;
+
+    flex-direction: column;
+
+    justify-content: center;
+
+}
+
+.three .quote{
+
+  font-family: light italic;
+
+  margin: 0;
+
+  width: 750px;
+
+  font-size: 36px;
+
+  font-weight: normal;
+
+  align-self: center;
+
+}
+
+.three p{
+
+  margin: 0px 450px 0px 0px;
+
+  align-self: flex-end;
+
 }
 
 .four{
