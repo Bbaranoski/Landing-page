@@ -1,9 +1,25 @@
-.body{
+body{
+
+  margin: 0px;
 
   display: flex;
 
+  flex-direction: column;
+
   flex: 1;
 
-  flex-direction: column;
+}
+
+.one{
+
+    height: 400px;
+
+    background-color: aqua;
+
+}
+
+p{
+
+  margin: 0px;
 
 }
