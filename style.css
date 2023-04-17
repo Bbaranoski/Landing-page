@@ -18,6 +18,10 @@ body{
 
     color: #f9faf8;
 
+    padding-left: 100px;
+
+    padding-right: 100px;
+
 }
 
 .two{
@@ -52,5 +56,25 @@ body{
     background-color: #1f2937;
 
     color: #f9faf8;
-    
+
+}
+
+.link{
+
+    display: flex;
+
+    flex: 1;
+
+    justify-content: space-between;
+
+}
+
+li{
+
+  display: inline;
+
+  list-style: none;
+
+  margin: 16px;
+
 }
