@@ -116,7 +116,7 @@ li{
 
 .two{
 
-    height: 300px;
+    height: 500px;
 
     color: black;
 
@@ -134,9 +134,29 @@ li{
 
 }
 
+.image{
+
+  display: flex;
+
+  justify-content: center;
+
+  gap: 50px;
+
+}
+
+.image div{
+
+  padding: 80px;
+
+  border: 5px solid #3882f6;
+
+  border-radius: 10px;
+
+}
+
 .three{
 
-    height: 300px;
+    height: 400px;
 
     background-color: #e5e7eb;
 
@@ -146,7 +166,7 @@ li{
 
 .four{
 
-    height: 200px;
+    height: 300px;
 
     color: #1f2937;
 
