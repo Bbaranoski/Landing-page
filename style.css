@@ -181,13 +181,13 @@ li{
 
     justify-content: center;
 
+    align-items: center;
+
 }
 
 .three .quote{
 
   font-family: light italic;
-
-  margin: 0;
 
   width: 750px;
 
@@ -195,15 +195,13 @@ li{
 
   font-weight: normal;
 
-  align-self: center;
+  margin: 0px;
 
 }
 
 .three p{
 
-  margin: 0px 450px 0px 0px;
-
-  align-self: flex-end;
+  margin: 0px 0px 0px 300px;
 
 }
 
