@@ -118,7 +118,20 @@ li{
 
     height: 300px;
 
-    color: #1f2937;
+    color: black;
+
+}
+
+.two p{
+
+  text-align: center;
+
+  font-size: 36px;
+
+  font-weight: bolder;
+
+  color: #1f2937;
+
 }
 
 .three{
