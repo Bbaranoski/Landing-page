@@ -154,6 +154,15 @@ li{
 
 }
 
+.test{
+
+  max-width: 160px;
+
+  text-align: center;
+
+}
+
+
 .three{
 
     height: 400px;
